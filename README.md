@@ -198,5 +198,6 @@ docker compose down -v
 ## Questions?
 
 If anything is unclear, document your assumptions in `SOLUTION.md` and proceed with your best judgment.
+Any questions can be directed to tate.walker@versent.com.au
 
 Good luck!
